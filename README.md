@@ -1,4 +1,5 @@
 #Demo File for Git
+Making a change from cloned repository
 
 This is a text  file that we are going to add to Git. 
 
