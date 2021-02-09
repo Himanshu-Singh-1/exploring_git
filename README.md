@@ -1,10 +1,7 @@
 #Demo File for Git
 
-<<<<<<< HEAD
 This is a second new line from original repo
-=======
 This is a second new line from cloned repo
->>>>>>> ea5f7b4b9ee9619915b38f66ba54cf71c46c5486
 
 This is a new line inserted from cloned repo
 
