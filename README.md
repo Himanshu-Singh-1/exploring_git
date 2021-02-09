@@ -1,7 +1,6 @@
 #Demo File for Git
 
-New stuff added from working direcotry
-
+Making another change from cloned repository
 Making a change from cloned repository
 
 This is a text  file that we are going to add to Git. 
