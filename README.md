@@ -1,5 +1,7 @@
 #Demo File for Git
 
+This is a new line inserted from cloned repo
+
 Making another change from cloned repository
 Making a change from cloned repository
 
